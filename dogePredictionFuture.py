@@ -1,4 +1,4 @@
-from dodgePredictionDataHead import data
+from dogePredictionDataHead import data
 from autots import AutoTS
 import matplotlib.pyplot as plt
 

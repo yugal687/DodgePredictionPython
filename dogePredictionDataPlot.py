@@ -1,6 +1,5 @@
-
-from dodgePredictionDataHead import data
-from dodgePredictionDataHead import plt
+from dogePredictionDataHead import data
+from dogePredictionDataHead import plt
 
 
 data.dropna()
